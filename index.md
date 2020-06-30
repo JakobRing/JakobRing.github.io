@@ -6,7 +6,7 @@ wefwefwefwefwefwefwefwefwf
 
 ## Eigenschaften
 
-*Eigenschaft
-*Möglichkeit
-*Weg
-*Viertens
+* Eigenschaft
+* Möglichkeit
+* Weg
+* Viertens
