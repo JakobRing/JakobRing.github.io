@@ -1,1 +1,5 @@
-Hier entsteht gerade eine Webseite zu meinem Lieblingscharakter!
+# Bluestern
+
+Also das ist mein Charakter!
+Lorem Ipsum...wefwefwefwefwefwefwef
+wefwefwefwefwefwefwefwefwf
