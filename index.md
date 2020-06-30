@@ -5,6 +5,6 @@ Lorem Ipsum...wefwefwefwefwefwefwef
 wefwefwefwefwefwefwefwefwf
 
 ## Eigenschaften
-1
-2
-3
+*1
+*2
+*3
