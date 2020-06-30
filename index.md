@@ -10,3 +10,6 @@ wefwefwefwefwefwefwefwefwf
 * Möglichkeit
 * Weg
 * Viertens
+
+Wie Hans sagte:
+> Sei gnädig mit dir selbst!
