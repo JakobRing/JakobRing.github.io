@@ -13,3 +13,5 @@ wefwefwefwefwefwefwefwefwf
 
 Wie Hans sagte:
 > Sei gnädig mit dir selbst!
+
+<img src="https://image.shutterstock.com/image-vector/vector-colorful-abstract-background-rays-260nw-122132551.jpg"/>
